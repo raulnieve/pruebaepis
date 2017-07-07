@@ -2,3 +2,5 @@
 2.devertido
 3.emocionante
 4.educativo
+5.saludable 
+6.compettivo
